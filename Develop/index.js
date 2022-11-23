@@ -18,6 +18,22 @@ const questions = [
     name: "instructions",
     message: "How to install??",
   },
+
+  {
+    type: "input",
+    name: "usage",
+    message: "Usage Information?",
+  },
+  {
+    type: "input",
+    name: "contributing",
+    message: "Contribution Guidelines?",
+  },
+  {
+    type: "input",
+    name: "tests",
+    message: "Test Instructions?",
+  },
 ];
 
 // TODO: Create a function to write README file
