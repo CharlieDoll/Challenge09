@@ -119,3 +119,7 @@ You are required to submit the following for review:
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+Badges/ Licences
+
+![GitHub](https://img.shields.io/github/license/CharlieDoll/Challenge09)()
